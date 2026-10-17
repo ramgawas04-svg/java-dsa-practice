@@ -1,0 +1,17 @@
+# Java build output
+*.class
+out/
+build/
+target/
+
+# Local IDE settings
+.idea/
+*.iml
+.vscode/
+
+# Local files and credentials
+.DS_Store
+.env
+.env.*
+!.env.example
+.aws/
