@@ -1,3 +1,5 @@
+# java-dsa-practice
+Daily practice of data structure and algorithms in Java
 # Java DSA Practice
 
 Java solutions and exercises for data structures and algorithms.
